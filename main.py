@@ -10,8 +10,6 @@ Celem jest uruchomienie chata lokalnie i poznanie jak w praktyce wygląda API LL
 
 Rozszerzeniem zadania może być np. dodanie porównywania odpowiedzi dwóch modeli.
 
-git config --global user.name "Arkadiusz Skrzypiec"
-git config --global user.email "arkadiusz.skrzypiec@bluesoft.com"
 
 '''
 import streamlit as st
